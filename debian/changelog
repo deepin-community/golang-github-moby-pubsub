@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-moby-pubsub (1.0.0-2) unstable; urgency=medium
+
+  * Source only upload for testing migration
+
+ -- Shengjing Zhu <zhsj@debian.org>  Sat, 15 Oct 2022 02:48:24 +0800
+
+golang-github-moby-pubsub (1.0.0-1) unstable; urgency=medium
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Shengjing Zhu <zhsj@debian.org>  Tue, 11 Oct 2022 00:56:16 +0800
